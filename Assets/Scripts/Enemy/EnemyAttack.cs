@@ -14,7 +14,7 @@ public class EnemyAttack : MonoBehaviour
     //EnemyHealth enemyHealth;
     bool playerInRange;
     float timer;
-	int a = 0;
+	//int a = 0;
 
 
     void Awake ()
