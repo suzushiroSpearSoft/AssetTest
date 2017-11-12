@@ -3,6 +3,7 @@ using System.Collections;
 
 public class EnemyAttack : MonoBehaviour
 {
+	aaaa
     public float timeBetweenAttacks = 0.5f;
     public int attackDamage = 10;
 
@@ -13,6 +14,7 @@ public class EnemyAttack : MonoBehaviour
     //EnemyHealth enemyHealth;
     bool playerInRange;
     float timer;
+	int a = 0;
 
 
     void Awake ()
